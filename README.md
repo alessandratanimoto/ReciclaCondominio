@@ -23,8 +23,6 @@ Projeto de site educativo desenvolvido com HTML, CSS e JavaScript, com o objetiv
 
 * **Contato:**
 
-  * Formulário para envio de dúvidas, sugestões ou informações sobre reciclagem.
-
 ## 💡 Funcionalidades com JavaScript
 
 * **Botão de "Voltar ao Topo"** aparece ao rolar a página.
@@ -38,9 +36,9 @@ Projeto de site educativo desenvolvido com HTML, CSS e JavaScript, com o objetiv
 
 ## 📚 Tecnologias usadas
 
-* HTML5
-* CSS3
-* JavaScript puro (vanilla JS)
+* HTML
+* CSS
+* JavaScript 
 
 ## 📅 Objetivo educacional
 
